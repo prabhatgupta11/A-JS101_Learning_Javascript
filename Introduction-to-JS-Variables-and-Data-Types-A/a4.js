@@ -1,0 +1,18 @@
+const school="School=𝐒𝐮𝐫𝐞𝐤𝐡𝐚 𝐏𝐫𝐚𝐤𝐚𝐬𝐡 𝐁𝐡𝐚𝐢 𝐏𝐮𝐛𝐥𝐢𝐜 𝐒𝐜𝐡𝐨𝐨𝐥";
+console.log(school);
+const name="Name=Prabhat Gupta";
+console.log(name);
+const rollno="Roll no=10";
+console.log(rollno);
+const section="Section=B";
+console.log(section);
+const grade="Grade=A+";
+console.log(grade);
+const char="🅜🅐🅡🅚🅢 🅞🅑🅣🅐🅘🅝🅔🅓";
+console.log(char);
+const math="mathematics=100";
+console.log(math);
+const phy="Physics=88";
+console.log(phy);
+const che="Chemistry=78";
+console.log(che);
